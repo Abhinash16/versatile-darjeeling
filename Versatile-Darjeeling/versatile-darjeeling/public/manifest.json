@@ -1,0 +1,22 @@
+{
+    "name": "Versatile Darjeeling",
+    "short_name": "Versatile Dj",
+    "description":"Versatile Darjeeling",
+    "icons": [
+      {
+        "src": "https://img.icons8.com/pastel-glyph/2x/guitar--v1.png",
+        "sizes": "256x256",
+        "type": "image/png"
+      },
+      {
+        "src": "https://img.icons8.com/pastel-glyph/2x/guitar--v1.png",
+        "sizes": "256x256",
+        "type": "image/png"
+      } 
+    ],
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#000000",
+    "gcm_sender_id": "67035378972"
+  }

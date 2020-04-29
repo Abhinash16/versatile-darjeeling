@@ -1,0 +1,22 @@
+{
+    "name": "ontrack Operation App ",
+    "short_name": "Operation",
+    "description":"OnTrack Operation App",
+    "icons": [
+      {
+        "src": "https://lh3.googleusercontent.com/J6zvb70T-xDSSPTzlISW_5k7ZuUzIBrZ1DB6v0xbaxJlB0GcRS7PpAkvyRzTkrmKGlAz",
+        "sizes": "512x512",
+        "type": "image/png"
+      },
+      {
+        "src": "https://lh3.googleusercontent.com/J6zvb70T-xDSSPTzlISW_5k7ZuUzIBrZ1DB6v0xbaxJlB0GcRS7PpAkvyRzTkrmKGlAz",
+        "sizes": "512x512",
+        "type": "image/png"
+      } 
+    ],
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#443BBD",
+    "theme_color": "#443BBD",
+    "gcm_sender_id": "67035378972"
+  }
